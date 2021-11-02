@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Axo/static/css/main.da52d7a1.chunk.css",
+    "main.js": "/Axo/static/js/main.81c74844.chunk.js",
+    "main.js.map": "/Axo/static/js/main.81c74844.chunk.js.map",
+    "runtime-main.js": "/Axo/static/js/runtime-main.5b841566.js",
+    "runtime-main.js.map": "/Axo/static/js/runtime-main.5b841566.js.map",
+    "static/js/2.0b3521fc.chunk.js": "/Axo/static/js/2.0b3521fc.chunk.js",
+    "static/js/2.0b3521fc.chunk.js.map": "/Axo/static/js/2.0b3521fc.chunk.js.map",
+    "index.html": "/Axo/index.html",
+    "static/css/main.da52d7a1.chunk.css.map": "/Axo/static/css/main.da52d7a1.chunk.css.map",
+    "static/js/2.0b3521fc.chunk.js.LICENSE.txt": "/Axo/static/js/2.0b3521fc.chunk.js.LICENSE.txt",
+    "static/media/Backgrounda.4cbf2593.jpg": "/Axo/static/media/Backgrounda.4cbf2593.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b841566.js",
+    "static/js/2.0b3521fc.chunk.js",
+    "static/css/main.da52d7a1.chunk.css",
+    "static/js/main.81c74844.chunk.js"
+  ]
+}
